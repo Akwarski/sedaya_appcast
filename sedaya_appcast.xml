@@ -3,21 +3,21 @@
   <channel>
     <title>Sedaya upgrader</title>
     <item>
-        <title>Version 1.3.1</title>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.sedaya.ecar" sparkle:version="1.3.1" sparkle:os="android" />
+        <title>Version 1.3.2</title>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.sedaya.ecar" sparkle:version="1.3.2" sparkle:os="android" />
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
         <title>Version 4.0</title>
-        <pubDate>Sat, 14 Apr 2024 15:20:13 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.sedaya.ecar" sparkle:version="1.3.1" sparkle:os="iOS" />
+        <pubDate>Wed, 18 Apr 2024 15:20:13 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.sedaya.ecar" sparkle:version="1.3.2" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
-        <title>Version 1.3.1</title>
-        <sparkle:version>1.3.1</sparkle:version>
-        <sparkle:maximumSystemVersion>1.3.1</sparkle:maximumSystemVersion>
+        <title>Version 1.3.2</title>
+        <sparkle:version>1.3.2</sparkle:version>
+        <sparkle:maximumSystemVersion>1.3.2</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
