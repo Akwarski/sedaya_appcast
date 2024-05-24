@@ -7,7 +7,7 @@
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
-        <enclosure url="https://apps.apple.com/app/sedaya/id6479558979" sparkle:version="1.4.0" sparkle:os="iOS" />
+        <enclosure url="https://apps.apple.com/app/sedaya/id6479558979" sparkle:version="1.3.3" sparkle:os="iOS" />
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
